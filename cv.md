@@ -369,3 +369,4 @@ int main()
 }
 ~~~
 7. I'm a second-year student at BSUIR. Completed stepik courses in Javascript and HTML / CSS.
+8. I studied English for eleven years at school and one year at University. I traveled around Europe, but I didn't have a chance to demonstrate my skills.
