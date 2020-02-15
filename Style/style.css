@@ -1,0 +1,31 @@
+.header{
+    font-style: oblique;
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+body {
+    max-width: 1024px;
+    margin: auto;
+}
+
+.photo-section{
+    text-align: center;
+}
+
+.social{
+    font-style: oblique;
+}
+
+.social-list{
+    background-color: beige;
+}
+
+.summary-section{
+    font-family: cursive;
+}
+
+.skills-section{
+    color: deeppink;
+}
